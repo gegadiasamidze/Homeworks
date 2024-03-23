@@ -14,3 +14,4 @@ elif test_grade > 40 and test_grade < 70:
     print("თქვენ დაგიფინანსდებათ სწავლა 500 ლარით")
 elif test_grade < 40:
     print("თქვენ არ დაგიფინანსდებათ სწავლის პროცესი")
+print("it is code")
